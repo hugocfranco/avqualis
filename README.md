@@ -19,5 +19,3 @@ npm run build
 ```
 npm run lint
 ```
-### Back-end 
-https://github.com/MichelliBrito/produtos-apirest
