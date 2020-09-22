@@ -1,4 +1,4 @@
-# produtos-front
+# Projeto AV Qualis - Produto
 Versão CLI: Vue CLI 3
 ## Project setup
 ```
